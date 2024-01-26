@@ -10,8 +10,11 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<div align=center>
 
-
+<img src ="me.png" width="40%" height="40%">
+<br>me from zepeto
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
