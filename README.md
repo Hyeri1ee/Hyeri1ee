@@ -43,14 +43,14 @@
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="right">
     <summary><h2 style="display: inline-block">Every daily step ahead becomes thousands</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-<div align= "left">
+<div align= "right">
 - 🔭 I’m currently learning **Spring,C++,Personal app project**
 
 - 🌱 I’m currently interested in **data structures using c++**
