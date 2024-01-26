@@ -12,26 +12,6 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Every daily step ahead becomes thousands</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently learning **Spring,C++,Personal app project**
-
-- 🌱 I’m currently interested in **data structures using c++**
-
-- 📝 I regularly write articles on [my Tistory blog](https://im-not-robot-0.tistory.com/)
-
-- 💬 Ask me about **Problems on Baekjoon, Spring**
-
-- 📫 Feel free to reach me out **haerizian10@gmail.com**
-
-<!--Intro end-->
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -59,4 +39,25 @@
   
 </div>
 <div align=center><h1>📚 Baekjoon</h1></div>
-<img align='cnter' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian">
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Every daily step ahead becomes thousands</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently learning **Spring,C++,Personal app project**
+
+- 🌱 I’m currently interested in **data structures using c++**
+
+- 📝 I regularly write articles on [my Tistory blog](https://im-not-robot-0.tistory.com/)
+
+- 💬 Ask me about **Problems on Baekjoon, Spring**
+
+- 📫 Feel free to reach me out **haerizian10@gmail.com**
+
+<!--Intro end-->
