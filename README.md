@@ -43,13 +43,14 @@
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Every daily step ahead becomes thousands</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
+<div align= "left>
 - 🔭 I’m currently learning **Spring,C++,Personal app project**
 
 - 🌱 I’m currently interested in **data structures using c++**
@@ -59,5 +60,5 @@
 - 💬 Ask me about **Problems on Baekjoon, Spring**
 
 - 📫 Feel free to reach me out **haerizian10@gmail.com**
-
+</div>
 <!--Intro end-->
