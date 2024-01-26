@@ -50,7 +50,7 @@
 
 
 <!--Intro start-->
-<div align= "left>
+<div align= "left">
 - 🔭 I’m currently learning **Spring,C++,Personal app project**
 
 - 🌱 I’m currently interested in **data structures using c++**
