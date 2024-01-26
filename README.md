@@ -3,12 +3,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Hyeri</h1></summary>
-  </ul>
-</div>
 
 
 <!--- snake -->
@@ -65,5 +59,4 @@
   
 </div>
 <div align=center><h1>📚 Baekjoon</h1></div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=haerizian)](https://solved.ac/haerizian)<br/>
-
+<img align='cnter' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian">
