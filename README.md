@@ -51,14 +51,14 @@
 
 <!--Intro start-->
 <div align= "right">
-- 🔭 I’m currently learning **Spring,C++,Personal app project**
+ 🔭 I’m currently learning **Spring,C++,Personal app project**
 
-- 🌱 I’m currently interested in **data structures using c++**
+ 🌱 I’m currently interested in **data structures using c++**
 
-- 📝 I regularly write articles on [my Tistory blog](https://im-not-robot-0.tistory.com/)
+ 📝 I regularly write articles on [my Tistory blog](https://im-not-robot-0.tistory.com/)
 
-- 💬 Ask me about **Problems on Baekjoon, Spring**
+ 💬 Ask me about **Problems on Baekjoon, Spring**
 
-- 📫 Feel free to reach me out **haerizian10@gmail.com**
+ 📫 Feel free to reach me out **haerizian10@gmail.com**
 </div>
 <!--Intro end-->
