@@ -38,8 +38,8 @@
 
   
 </div>
-<div align=center><h1>📚 Baekjoon</h1></div>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian">
+<div align=center><h1>📚 DETAIL </h1></div>
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian">
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
