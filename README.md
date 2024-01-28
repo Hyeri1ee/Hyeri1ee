@@ -26,7 +26,7 @@
 
   
 </div>
-<div align=center><h3>quite available</h3></div>
+
 <div align=center> 
 
 
