@@ -134,7 +134,7 @@
 
 [깃랩 Gitlab](https://gitlab.com/Hyer11ee)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저네임)](https://solved.ac/haerizian)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian)](https://solved.ac/haerizian)
 
 #### 📚 취미
 
