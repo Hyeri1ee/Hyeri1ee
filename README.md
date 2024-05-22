@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<span ><font size = "5"> 이혜리 </font> </span>
+<span ><font size = "7"> 이혜리 </font> </span>
 <br> Backend Devloper
 
 #### 📚 소개 / About me
