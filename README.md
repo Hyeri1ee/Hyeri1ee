@@ -38,11 +38,12 @@
 
 #### 📚 과제 프로젝트 경험
 
-[comming soon :) ](https://www.)
+[쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk)
+
+[Nowatt 프로젝트-sprint2 presentation1.pdf](https://github.com/user-attachments/files/16231764/sprint2.presentation1.pdf)
+
 
 #### 📚 교육내용 및 수상
-
-2024.06 ~ 위니브 앰버서더 3기 (weniv ambassador)
 
 2024.04 ~ 2024.05 인프런 워밍업 백엔드 스터디 1기 수료
 
