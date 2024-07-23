@@ -142,7 +142,7 @@ TOEIC 855: Obtained in Jul 2022
 
 [Gitlab](https://gitlab.com/Hyer11ee)
 
-[[solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian)](https://solved.ac/haerizian)
+[[solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian)]
 
 
 #### 📚 Hobbies
