@@ -138,15 +138,11 @@ TOEIC 855: Obtained in Jul 2022
   
 ##### 📚 Others
 
-Personal Blog
-GitLab
-Solved.ac Profile
-
 [Personal Blog](https://im-not-robot-0.tistory.com/)
 
 [Gitlab](https://gitlab.com/Hyer11ee)
 
-[solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian)](https://solved.ac/haerizian)
+[[solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian)](https://solved.ac/haerizian)
 
 
 #### 📚 Hobbies
