@@ -79,3 +79,53 @@
 devops 배포, 스프링 시큐리티
 
 
+
+
+english version
+Hyeri Lee
+Backend Developer
+
+📚 About Me
+Aspiring backend developer with a primary focus on Java and the Spring Boot framework. Continuously growing through team and personal projects. Identifying and improving technical and communication skills during collaboration.
+
+📚 Skill Set
+
+Skills with Implementation Experience
+
+Category	Skill
+Programming Languages	Java, JavaScript, HTML, CSS, C++, C, Python
+Frameworks	Svelte, Node.js, Spring Boot
+Server	MySQL
+Tooling/DevOps	Docker, GitHub, Bash, Docker Compose
+Environment	AWS, Linux
+etc.	Notion, Trello
+Mainly Used Skill Set
+
+📚 Project Experience
+
+Kuseok Kuseok Project
+Nowatt Project - Sprint2 Presentation1.pdf
+📚 Education and Awards
+
+Inflearn Backend Warming Up Study 1st Term Completion: Apr 2024 - May 2024
+Grand Prize at Konkuk University Mobility Startup Camp Team: Aug 2023
+📚 Certifications
+
+TOEIC 855: Obtained in Jul 2022
+📚 Education
+
+Exchange Program: Saxion University (Netherlands), Feb 2024 - Jul 2024
+Bachelor's Degree: Department of Computer Engineering, Konkuk University, Mar 2022 - Present
+High School Diploma: Pungmoon High School, Feb 2017 - Feb 2019
+📚 Others
+
+Personal Blog
+GitLab
+Solved.ac Profile
+📚 Hobbies
+
+Fitness, Studying in cafes, Eating delicious food, Traveling
+📚 Current Interests
+
+DevOps deployment, Spring Security
+
