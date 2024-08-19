@@ -59,11 +59,11 @@
 
 #### 📚 학력
 
-2024.02 ~ 2024.07 Saxion University 교환 (Netherlands)
+ Saxion University 교환 (Netherlands)
 
-2022.03 ~ 건국대학교 컴퓨터공학부 
+ 건국대학교 컴퓨터공학부 
 
-2017.02 ~ 2019.02 풍문고등학교 졸업
+ 풍문고등학교 졸업
 
 
 #### 📚 그외
