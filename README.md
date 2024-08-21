@@ -66,7 +66,7 @@
 
 - - -
 
-### 2) [NOWATT 프로젝트]()
+### 3) [NOWATT 프로젝트]()
 <div align="center">
  <img width="720" alt="image" src="">
 </div>
