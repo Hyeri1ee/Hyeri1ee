@@ -1,11 +1,19 @@
-### Info
-안녕하세요! Backend 를 공부하는 이혜리입니다.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Github%20Hyeri)
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<span ><font size = "5"> 이혜리 </font> </span>
+<br> Backend
 
 <a href="">📑 노션포트폴리오_바로가기</a><br><br>
 <a href="">📑 NotionPortfolio_click (english version)</a><br><br>  
 
-### Stack
+
+
+#### 📚 기술 스택 / Skill Set
+
 <p align = "left">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
@@ -23,57 +31,17 @@
 
 - - -
 
-### BOJ 
-
-[[solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian)]
-
-<!--
-- - -
-
- ### Stats
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeri1ee&show_icons=true&theme=dark) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeri1ee&layout=compact&theme=dark) -->
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxxnxx&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeri1ee&layout=compact&theme=tokyonight)
-
--->
-- - -
- 
-### Projects
-
-### 1) [쿠석쿠석(KUSUK KUSUK)](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk)
-<div align="center">
- <img width="720" alt="image" src="">
-</div>
 
 
-- 수행 기간 : 2024.01 ~ 2024.04
-- 주요 역할 : ERD 설계, CRUD 구현 (댓글)
-- 기술 스택 : Spring Boot - JAVA / AWS
+#### 📚 그외
 
-- - -
+[개인 정리 블로그](https://im-not-robot-0.tistory.com/)
 
-### 2) [JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap)
-<div align="center">
- <img width="720" alt="image" src="">
-</div>
+[깃랩 Gitlab](https://gitlab.com/Hyer11ee)
 
 
-- 수행 기간 : 2024.08~
-- 주요 역할 : erd 설계, crud 구현, selenium으로 동적 웹 크롤링, jwt 구현, 
-- 기술 스택 : Spring Boot - JAVA
+#### 📚 취미
 
-- - -
-
-### 3) [NOWATT 프로젝트]()
-<div align="center">
- <img width="720" alt="image" src="">
-</div>
+헬스, 카공, 맛있는 거 먹는거, 여행
 
 
-- 수행 기간 : 2024.05 ~ 2024.06
-- 주요 역할 : 
-- 기술 스택 : Typescript, node.js
-
-- - -
