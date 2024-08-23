@@ -14,9 +14,8 @@
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/haerizian/)
+<a href="https://solved.ac/haerizian"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian&theme=dark"/></a>
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 - 🎤 [인프런 워밍업 클럽 1기](https://www.inflearn.com/course/offline/inflearn-warmup-club-study-1) - BE 수료 <sub>(2024.04 ~ 2024.05)</sub>
 - 🪄 [쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk) - BE 개발 <sub>(2024.01 ~ 2024.04)</sub>
 - 🥗 [JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap) - BE 개발 <sub>(2024.08 ~ )</sub>
