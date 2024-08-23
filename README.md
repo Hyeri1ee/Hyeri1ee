@@ -27,8 +27,7 @@
 <div markdown="1">
 
 |기간|활동| 
-|:-:|-:|:-|
-
+|:-:|-:|
 |<sub>2024.08 ~ 24.08</sub>| 오픽 IH  | 
 |<sub>2024.02 ~ 24.06</sub>| Saxion University 교환 (Netherlands) |  
 |<sub>2023.08 ~ 23.08</sub>| 건국대학교 모빌리티 창업 캠프 팀 대상  |
