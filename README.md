@@ -18,6 +18,8 @@
 
 건국대학교 컴퓨터공학부 22학번
 
+백엔드 
+
 - 🥗 [JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap) - BE 개발 <sub>(2024.08 ~ )</sub>
 - 🎤 [인프런 워밍업 클럽 1기](https://www.inflearn.com/course/offline/inflearn-warmup-club-study-1) - BE 수료 <sub>(2024.04 ~ 2024.05)</sub>
 - 🪄 [쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk) - BE 개발 <sub>(2024.01 ~ 2024.04)</sub>
