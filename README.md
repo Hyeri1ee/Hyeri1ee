@@ -9,7 +9,7 @@
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
-  <a href="https://im-not-robot-0.tistory.com/"><img src="https://img.shields.io/badge/Hyeri.blog-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://clear-wax-441.notion.site/Project-ReadMe-e8d02a1edae54c7c911774531a42f28d"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+  <a href="https://im-not-robot-0.tistory.com/"><img src="https://img.shields.io/badge/Hyeri.blog-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://clear-wax-441.notion.site/Project-ReadMe-3046b186ffa64aafa26ca19a3e9ff8d9?pvs=74"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
   ---
 
 </div>
