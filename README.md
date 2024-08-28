@@ -66,8 +66,7 @@
 <summary>취미</summary>
 <div markdown="1">
 
-헬스, 여행, 파스타 해먹기,
-노래 듣기[인터스텔라 ost](https://www.youtube.com/watch?v=_BigIt2yPHU), [인스타 릴스 노래 모음](https://www.youtube.com/watch?v=vtjepChxpSw)
+헬스, 여행
 
 
 </div>
