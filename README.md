@@ -18,10 +18,20 @@
 
 건국대학교 컴퓨터공학부 22학번
 
-백엔드 
+백엔드
+
+- 🎤 [구름톤 딥다이브 풀스택 11회차](https://9oormthon.university/) - BE  <sub>(2024.08 ~ )</sub>
+
+- 🎤 [구름톤 유니브 3기](https://9oormthon.university/) - BE  <sub>(2024.08 ~ )</sub>
+
+- 🎤 [인프런 워밍업 클럽 1기](https://www.inflearn.com/course/offline/inflearn-warmup-club-study-1) - BE 수료 <sub>(2024.04 ~ 2024.05)</sub>
+
+
+
+프로젝트
 
 - 🥗 [JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap) - BE 개발 <sub>(2024.08 ~ )</sub>
-- 🎤 [인프런 워밍업 클럽 1기](https://www.inflearn.com/course/offline/inflearn-warmup-club-study-1) - BE 수료 <sub>(2024.04 ~ 2024.05)</sub>
+
 - 🪄 [쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk) - BE 개발 <sub>(2024.01 ~ 2024.04)</sub>
 
 
