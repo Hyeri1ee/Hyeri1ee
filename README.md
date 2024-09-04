@@ -39,12 +39,14 @@
 - 🪄 [쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk) - BE 개발 <sub>(2024.01 ~ 2024.04)</sub>
 
 <div align="center">
-  ### frequently using skill set
+#### 자주 사용하는 기술
+
+<div align="center">
   
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-</div>
+</div></div>
 
 </div>
 <details>
