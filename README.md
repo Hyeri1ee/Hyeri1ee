@@ -38,46 +38,7 @@
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-  
-  ###  frequently using skill set
-  <!--horizontal divider(gradiant)-->
-  ---
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<!--<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">-->
-<img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=JAVA&logoColor=white">
-
-
-</div>
-<details>
-<summary>자격증/상</summary>
-<div markdown="1">
-
-|기간|활동| 
-|:-:|-:|
-|<sub>2024.08 ~ 24.08</sub>| 오픽 IH  | 
-|<sub>2023.08 ~ 23.08</sub>| 건국대학교 모빌리티 창업 캠프 팀 대상  |
-|<sub>2022.07 ~ 22.07</sub>| 토익 855  |
-
-
-</div>
-</details>
-
-
-<details>
-<summary>취미</summary>
-<div markdown="1">
-
-헬스, 여행, 이해 못하는 러시아 노래 듣기
+<br/>톡
 
 
 </div>
