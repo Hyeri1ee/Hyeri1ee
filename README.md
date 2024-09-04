@@ -33,7 +33,7 @@
 
 프로젝트
 
-- 🥗 [JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap) - BE 개발 <sub>(2024.08 ~ )</sub>
+- 🥗 개인[JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap) - BE 개발 <sub>(2024.08 ~ )</sub>
 
 - 🪄 [Smart Household Appliance webapp](https://github.com/Hyeri1ee/Smart-Houshold-Appliance-webapp) - BE 개발 <sub>(2024.05 ~ 2024.07)</sub>
 
