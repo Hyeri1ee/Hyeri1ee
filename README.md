@@ -76,7 +76,7 @@
 <summary>취미</summary>
 <div markdown="1">
 
-헬스, 여행
+헬스, 여행, 이해 못하는 러시아 노래 듣기
 
 
 </div>
