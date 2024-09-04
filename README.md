@@ -6,6 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   ### Hi I'm Hyeri
+  #### 상황에 유연하게 대처할 수 있도록 지속적으로 성장하는 백엔드 이혜리 입니다.
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
