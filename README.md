@@ -39,7 +39,7 @@
 - 🪄 [쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk) - BE 개발 <sub>(2024.01 ~ 2024.04)</sub>
 
 <div align="center">
-#### 자주 사용하는 기술
+ 자주 사용하는 기술
 
 <div align="center">
   
