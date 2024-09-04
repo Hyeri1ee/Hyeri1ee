@@ -24,7 +24,7 @@
 
 - 🎤 [인프런 워밍업 클럽 1기](https://www.inflearn.com/course/offline/inflearn-warmup-club-study-1) - BE 수료 <sub>(2024.04 ~ 2024.05)</sub>
 
-- 🎤 Saxion university(Netherlands) - cs 과정 <sub>(2024.02 ~ 2024.07)</sub>
+- 🎤 Saxion university(Netherlands) - cs 과정 교환학생 <sub>(2024.02 ~ 2024.07)</sub>
 
 - 🎤 건국대학교 컴퓨터공학부 <sub>(2022.03 ~ )</sub>
 
