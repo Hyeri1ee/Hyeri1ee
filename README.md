@@ -22,25 +22,16 @@
 활동
 
 - 🎤 [구름톤 딥다이브 풀스택 11회차](https://9oormthon.university/) - BE  <sub>(2024.08 ~ )</sub>
-
 - 🎤 [구름톤 유니브 3기](https://9oormthon.university/) - BE  <sub>(2024.08 ~ )</sub>
-
 - 🎤 [인프런 워밍업 클럽 1기](https://github.com/Hyeri1ee/BackendInflearn/tree/master) - BE 수료 <sub>(2024.04 ~ 2024.05)</sub>
-
 - 🎤 Saxion university(Netherlands) - cs 과정 교환학생 <sub>(2024.02 ~ 2024.07)</sub>
-
 - 🎤 건국대학교 컴퓨터공학부 <sub>(2022.03 ~ )</sub>
-
-
 
 프로젝트
 
 - 🥗 개인[JOB FIELD MAP](https://github.com/Hyeri1ee/JobFieldMap) - BE 개발 <sub>(2024.08 ~ )</sub>
-
 - 🥗 [Smart Household Appliance webapp](https://github.com/Hyeri1ee/Smart-Houshold-Appliance-webapp) - BE 개발 <sub>(2024.05 ~ 2024.07)</sub>
-
 - 🥗 [쿠석쿠석 프로젝트](https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk) - BE 개발 <sub>(2024.01 ~ 2024.04)</sub>
-
 <div align="center">
  자주 사용하는 기술
 
