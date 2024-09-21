@@ -7,7 +7,9 @@
   
   ### Hi I'm Hyeri
   #### 상황에 유연하게 대처할 수 있도록 지속적으로 성장하는 백엔드 이혜리 입니다.
-
+</div>
+보수중.
+<!--
   [이력서(resume)](https://clear-wax-441.notion.site/c7a57347861a468c8820b155d629a6c5)
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
@@ -60,3 +62,4 @@
   <summary>취미</summary>
   헬스, 여행, 스몰톡
 </details>
+-->
