@@ -8,6 +8,8 @@
   ### Hi I'm Hyeri
   #### 상황에 유연하게 대처할 수 있도록 지속적으로 성장하는 백엔드 이혜리 입니다.
 </div>
+<a href="https://solved.ac/haerizian"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian&theme=dark"/></a>
+
 보수중.
 <!--
   [이력서(resume)](https://clear-wax-441.notion.site/c7a57347861a468c8820b155d629a6c5)
