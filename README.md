@@ -5,9 +5,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Hyeri1ee}?pet-id=1" width="1000" height="300"/>
+  <img src="https://render.gitanimals.org/farms/{Hyeri1ee}"/>
 </a>
-
 
 
 <a href="https://solved.ac/haerizian"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian&theme=dark"/></a>
