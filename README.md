@@ -18,7 +18,6 @@
   
 
 </div>
-<a href="https://solved.ac/haerizian"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian&theme=dark"/></a>
 
 
 <!--
