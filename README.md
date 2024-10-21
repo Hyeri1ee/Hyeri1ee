@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Github%20Hyeri)
 
-<div align="center">
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Hyeri1ee}"/>
