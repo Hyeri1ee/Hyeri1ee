@@ -4,9 +4,9 @@
   <img src="https://render.gitanimals.org/farms/{Hyeri1ee}"/>
 </a>
 
-
+<!--
 <a href="https://solved.ac/haerizian"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian&theme=dark"/></a>
-
+-->
 
 
 
