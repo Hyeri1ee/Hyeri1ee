@@ -11,9 +11,9 @@
 
 
 ## 🙌 
-- [두왓](https://dowhat.io/) 백엔드 개발 인턴 (2024.12-`현재`)
+- [두왓](https://dowhat.io/) 백엔드 개발 인턴 (2024.12- `현재`)
 - 네덜란드 CS 교환학생 [Saxion University](https://www.saxion.edu/) (2024.02-2024.07)
-- [건국대학교(서울) 컴퓨터공학부](https://research.konkuk.ac.kr/sites/cse/index.do) (2022.03-2026.02`예정`)
+- [건국대학교(서울) 컴퓨터공학부](https://research.konkuk.ac.kr/sites/cse/index.do) (2022.03-2026.02 `예정`)
 
 ## 🙌 
 - Backend Developer Intern, [DOWHAT](https://dowhat.io/) (Dec 2024- `Present`)
