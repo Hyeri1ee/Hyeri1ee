@@ -16,6 +16,6 @@
 - [건국대학교(서울) 컴퓨터공학부](https://research.konkuk.ac.kr/sites/cse/index.do) (2022.03-2026.02`예정`)
 
 ## 🙌 
-- Backend Developer Intern, [DOWHAT](https://dowhat.io/) (Dec 2024-`Present`)
+- Backend Developer Intern, [DOWHAT](https://dowhat.io/) (Dec 2024- `Present`)
 - Exchange Student, Computer Science, [Saxion University of Applied Sciences](https://www.saxion.edu/), Netherlands (Feb 2024-Jul 2024)
 - B.S. in [Computer Science and Engineering, Konkuk University](https://research.konkuk.ac.kr/sites/cse/index.do) (Mar 2022-Feb 2026 `Expected`)
