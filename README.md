@@ -17,5 +17,5 @@
 
 ## 🙌 
 - Backend Developer Intern, [DOWHAT](https://dowhat.io/) (Dec 2024-`Present`)
-- Exchange Student, Computer Science, [Saxion University of Applied Sciences]((https://www.saxion.edu/)), Netherlands (Feb 2024-Jul 2024)
-- B.S. in [Computer Science and Engineering, Konkuk University]((https://research.konkuk.ac.kr/sites/cse/index.do) ) (Mar 2022-Feb 2026 `Expected`)
+- Exchange Student, Computer Science, [Saxion University of Applied Sciences](https://www.saxion.edu/), Netherlands (Feb 2024-Jul 2024)
+- B.S. in [Computer Science and Engineering, Konkuk University](https://research.konkuk.ac.kr/sites/cse/index.do) (Mar 2022-Feb 2026 `Expected`)
