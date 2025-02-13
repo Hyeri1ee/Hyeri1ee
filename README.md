@@ -7,8 +7,13 @@
 <!--
 <a href="https://solved.ac/haerizian"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haerizian&theme=dark"/></a>
 -->
+<br/>
 
 
+
+[cv_이력서(resume)](https://drive.google.com/file/d/1Nqn4iXnkBk8d_U19wUJhyNUxBYcTVXNK/view)
+
+[포트폴리오...coming soon]()
 
 ## 🙌 
 - [두왓](https://dowhat.io/) 백엔드 개발 인턴 (2024.12- `현재`)
