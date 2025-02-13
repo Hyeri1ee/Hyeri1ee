@@ -11,7 +11,7 @@
 
 
 
-[cv_이력서(resume)](https://drive.google.com/file/d/1Nqn4iXnkBk8d_U19wUJhyNUxBYcTVXNK/view)
+[cv_이력서](https://drive.google.com/file/d/1Nqn4iXnkBk8d_U19wUJhyNUxBYcTVXNK/view)
 
 [포트폴리오...coming soon]()
 
