@@ -18,7 +18,7 @@
 
 
 ## 🙌 
-[cv_이력서](https://drive.google.com/file/d/1Nqn4iXnkBk8d_U19wUJhyNUxBYcTVXNK/view)
+[cv_이력서](https://drive.google.com/file/d/1e0RPSsL9fm4PADbOgCNRWGEGhoAfZezz/view?usp=drive_link)
 
 [포트폴리오(coming soon)]()
 
@@ -30,7 +30,7 @@
   - [커밋 메시지 suffix 자동화](https://im-not-robot-0.tistory.com/212)
 
 ## 🙌 
-- [두왓](https://dowhat.io/) 백엔드 개발 인턴 (2024.12- `현재`)
+- [두왓](https://dowhat.io/) 백엔드 개발 인턴 (2024.12- 2024.02)
 - 네덜란드 CS 교환학생 [Saxion University](https://www.saxion.edu/) (2024.02-2024.07)
 - [건국대학교(서울) 컴퓨터공학부](https://research.konkuk.ac.kr/sites/cse/index.do) (2022.03-2026.02 `예정`)
 
