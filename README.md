@@ -18,7 +18,7 @@
 
 
 ## 🙌 
-[cv_이력서](https://drive.google.com/file/d/1e0RPSsL9fm4PADbOgCNRWGEGhoAfZezz/view?usp=drive_link)
+[cv_이력서](https://drive.google.com/file/d/1Nqn4iXnkBk8d_U19wUJhyNUxBYcTVXNK/view?usp=sharing)
 
 [포트폴리오(coming soon)]()
 
