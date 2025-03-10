@@ -28,7 +28,7 @@
 - 자동화를 통해 개발 문화에 기여하는 것을 좋아합니다.
   - [남은 PR 디스코드 비동기 알림 CI 만들기](https://im-not-robot-0.tistory.com/210)
   - [커밋 메시지 suffix 자동화](https://im-not-robot-0.tistory.com/212)
-- 그 외 관심 있는 부분들은 [실험 레포](https://github.com/Hyeri1ee/my-spring)에서 보실 수 있습니다. 
+- 그 외 관심 있는 부분들은 [my-spring 레포](https://github.com/Hyeri1ee/my-spring)에 정리를 해놓고, 지속적으로 공부하고 있습니다. 
 
 ## 🙌 
 - [두왓](https://dowhat.io/) 백엔드 개발 인턴 (2024.12- 2024.02)
