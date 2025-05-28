@@ -1,5 +1,8 @@
 
 ## 🚀 The Journey Continues
+
+Life's too short to do anything but what I love
+
 - And Next?
 - [GLI(Graph & Language Intelligence)](https://gli.konkuk.ac.kr/) LAB Intern (2025.06- )
 - [Dowhat](https://dowhat.io/) Backend Developer Intern (2024.12- 2025.02)
