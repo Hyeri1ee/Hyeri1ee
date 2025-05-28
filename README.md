@@ -1,4 +1,4 @@
-.
+
 ## 🚀 The Journey Continues
 - And Next?
 - [GLI(Graph & Language Intelligence)](https://gli.konkuk.ac.kr/) LAB Intern (2025.06- )
