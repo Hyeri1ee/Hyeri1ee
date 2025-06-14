@@ -1,5 +1,6 @@
 
-## 🚀 Hyeri's Github
+## 🚀 안녕하세요, 이혜리입니다.
+[<img src="https://img.shields.io/badge/English--Version-000?style=for-the-badge&logo=github&logoColor=white"/>](./README_ENG.md)
 
 
 
