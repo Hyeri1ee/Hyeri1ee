@@ -1,4 +1,5 @@
-## 🚀 The Journey Continues
+## 🚀 Welcome, I'm Hyeri
+[<img src="https://img.shields.io/badge/Korean--Version-000?style=for-the-badge&logo=github&logoColor=white"/>](./README.md)
 
 Life's too short to do anything but what I love
 
